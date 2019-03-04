@@ -1,0 +1,23 @@
+{
+    "twentyOnePointsApp": {
+        "weight": {
+            "home": {
+                "title": "Weights",
+                "createLabel": "Buat Weight baru",
+                "createOrEditLabel": "Buat atau edit Weight"
+            },
+            "created": "Weight dengan id {{ param }} telah dibuat",
+            "updated": "Weight dengan id {{ param }} telah diperbaharui",
+            "deleted": "Weight dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Weight {{ id }}?"
+            },
+            "detail": {
+                "title": "Weight"
+            },
+            "timestamp": "Timestamp",
+            "weight": "Weight",
+            "user": "User"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "twentyOnePointsApp": {
+        "preferences": {
+            "home": {
+                "title": "Preferences",
+                "createLabel": "Buat Preferences baru",
+                "createOrEditLabel": "Buat atau edit Preferences"
+            },
+            "created": "Preferences dengan id {{ param }} telah dibuat",
+            "updated": "Preferences dengan id {{ param }} telah diperbaharui",
+            "deleted": "Preferences dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Preferences {{ id }}?"
+            },
+            "detail": {
+                "title": "Preferences"
+            },
+            "weeklyGoal": "Weekly Goal",
+            "weightUnits": "Weight Units",
+            "user": "User"
+        }
+    }
+}

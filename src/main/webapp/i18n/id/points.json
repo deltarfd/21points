@@ -1,0 +1,26 @@
+{
+    "twentyOnePointsApp": {
+        "points": {
+            "home": {
+                "title": "Points",
+                "createLabel": "Buat Points baru",
+                "createOrEditLabel": "Buat atau edit Points"
+            },
+            "created": "Points dengan id {{ param }} telah dibuat",
+            "updated": "Points dengan id {{ param }} telah diperbaharui",
+            "deleted": "Points dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Points {{ id }}?"
+            },
+            "detail": {
+                "title": "Points"
+            },
+            "date": "Date",
+            "exercise": "Exercise",
+            "meals": "Meals",
+            "alcohol": "Alcohol",
+            "notes": "Notes",
+            "user": "User"
+        }
+    }
+}

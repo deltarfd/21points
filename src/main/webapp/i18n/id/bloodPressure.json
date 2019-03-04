@@ -1,0 +1,24 @@
+{
+    "twentyOnePointsApp": {
+        "bloodPressure": {
+            "home": {
+                "title": "Blood Pressures",
+                "createLabel": "Buat Blood Pressure baru",
+                "createOrEditLabel": "Buat atau edit Blood Pressure"
+            },
+            "created": "Blood Pressure dengan id {{ param }} telah dibuat",
+            "updated": "Blood Pressure dengan id {{ param }} telah diperbaharui",
+            "deleted": "Blood Pressure dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Blood Pressure {{ id }}?"
+            },
+            "detail": {
+                "title": "Blood Pressure"
+            },
+            "timestamp": "Timestamp",
+            "systolic": "Systolic",
+            "diastolic": "Diastolic",
+            "user": "User"
+        }
+    }
+}
